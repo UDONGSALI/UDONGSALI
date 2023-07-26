@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDONGSALI&show_icons=true&theme=tokyonight)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDONGSALI&layout=compact&theme=tokyonight)
+</div>
+
 <!--
 **UDONGSALI/UDONGSALI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
