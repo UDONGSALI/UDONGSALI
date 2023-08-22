@@ -4,7 +4,7 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDONGSALI&theme=2077)
 
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UDONGSALI&theme=github&exclude=e)   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=udongsali77)](https://solved.ac/udongsali77)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDONGSALI&layout=compact&theme=github)   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=udongsali77)](https://solved.ac/udongsali77)
 
    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UDONGSALI&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UDONGSALI&theme=github&utcOffset=9)
 
