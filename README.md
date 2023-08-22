@@ -3,9 +3,7 @@
 <div align="center">
 
   
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDONGSALI&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=udongsali77)](https://solved.ac/udongsali77)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDONGSALI&theme=gruvbox)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={UDONGSALI}&theme={2077}
 
 
 </div>
