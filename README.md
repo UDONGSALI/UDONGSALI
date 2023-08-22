@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDONGSALI&layout=Demo&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDONGSALI&theme=gruvbox)
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDONGSALI&show_icons=true&theme=radical)  
 </div>
